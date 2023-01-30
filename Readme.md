@@ -1,5 +1,4 @@
-# Librería Propia
-
+# Librería DAMIÁN NOGUEIRAS
 Este es un ejemplo de librería, en el que vamos a independizar un código, para poder reutilizarlo
 
 Las librerías son la base de la modularización y la reutilización de código
